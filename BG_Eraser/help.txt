@@ -1,0 +1,12 @@
+bg_eraser/
+├── constants.py          # All colors & UI constants
+├── widgets.py            # Reusable UI components (AnimatedButton + checkerboard)
+├── processor.py          # Background removal + face detection logic
+├── app.py                # Main Tkinter application class
+└── main.py               # Entry point
+
+
+
+
+cd bg_eraser
+python main.py
